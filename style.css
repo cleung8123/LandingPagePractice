@@ -1,9 +1,9 @@
 * {
-    font-family: roboto;
+    font-family: sans-serif;
 }
 
 body {
-    margin: 0px;  
+    width:100%
 }
 
 .header {
@@ -110,4 +110,12 @@ button {
     width: 200px;
     height: 200px;
     object-fit: cover;
+}
+
+.footer {
+  
+}
+
+.quote {
+
 }
