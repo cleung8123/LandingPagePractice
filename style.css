@@ -88,9 +88,10 @@ button {
 .info {
     padding: 15px 100px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     text-align: center;
     background-color: #5d7a57;
+    gap: 15px;
     
 }
 
@@ -103,11 +104,13 @@ button {
     margin-bottom: 15px;
     text-align: center;
     background-color: #5d7a57;
+
 }
 
 .content img {
     width: 200px;
     height: 200px;
+   
 }
 
 .content p {
@@ -125,6 +128,7 @@ button {
     font-weight: bold;
     color: beige;
     margin: 20px 100px;
+    flex: 1;
     
 }
 
